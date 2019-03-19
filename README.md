@@ -56,26 +56,26 @@ D 的个人博客
 
 ### 热议
 
-* [Solo 用户指南](http://localhost/articles/2017/04/23/1492881378588.html)
 * [2017 成为报废程序员的前一年](http://localhost/articles/2017/12/31/1514687638181.html)
 * [Solo 的 golang 版计划](http://localhost/articles/2017/09/11/1505113028471.html)
 * [疯狂的想法 C：书籍共享计划](http://localhost/articles/2017/01/01/1483240295087.html)
 * [2015 年总结 - 十年](http://localhost/articles/2016/01/30/1454085278317.html)
 * [EverBox（同步网盘）邀请](http://localhost/everbox-invite.html)
 * [2016 一个想做架构师的码农](http://localhost/articles/2016/12/30/1483027205828.html)
-* [链接熔炉设计](http://localhost/articles/2016/09/07/1473238756829.html)
 * [敏感数据处理](http://localhost/articles/2016/05/11/1462956775250.html)
-* [Solo 支持 Hexo/Jekyll 数据导入](http://localhost/articles/2017/06/26/1498490209748.html)
+* [链接熔炉设计](http://localhost/articles/2016/09/07/1473238756829.html)
 * [Go 边看边练 -《Go 学习笔记》系列（一）](http://localhost/articles/2015/07/22/1437497122181.html)
-* [IPFS 入门笔记](http://localhost/articles/2017/11/18/1511015097370.html)
+* [Solo 支持 Hexo/Jekyll 数据导入](http://localhost/articles/2017/06/26/1498490209748.html)
 * [模板引擎实现（一）词法分析](http://localhost/articles/2017/05/31/1496233258522.html)
+* [IPFS 入门笔记](http://localhost/articles/2017/11/18/1511015097370.html)
 * [跨域 Cookie 实现单点登录](http://localhost/sso-via-cross-domain-cookie)
 * [重装系统后 git 烂了](http://localhost/articles/2018/02/24/1519471473213.html)
 * [Solo 2.3.0 升级 2.4.0 问题与解决](http://localhost/articles/2017/10/18/1508292644879.html)
-* [GitHub Windows 安装器](http://localhost/articles/2017/03/26/1490498197453.html)
 * [88250 的“一分钟想法” ](http://localhost/articles/2009/12/09/1260370800000.html)
-* [Fancybox 插件介绍](http://localhost/b3log-solo-041-fancybox-plugin)
 * [开源经验谈](http://localhost/articles/2017/08/01/1501603146956.html)
+* [Fancybox 插件介绍](http://localhost/b3log-solo-041-fancybox-plugin)
+* [GitHub Windows 安装器](http://localhost/articles/2017/03/26/1490498197453.html)
+* [以太坊相关中文资料整理](http://localhost/articles/2018/01/13/1515820007039.html)
 
 ---
 
