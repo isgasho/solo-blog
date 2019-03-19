@@ -2,13 +2,13 @@
 D 的个人博客
 </h2>
 
-<h4 align="center">开源程序员，自由职业者</h4>
+<h3 align="center">开源程序员，自由职业者</h3>
 <p align="center"><a title="D 的个人博客" target="_blank" href="https://github.com/88250/solo-blog"><img src="https://img.shields.io/github/last-commit/88250/solo-blog.svg?style=flat-square"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github/88250/solo-blog"><img src="https://img.shields.io/github/repo-size/88250/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.3.0-f1e05a.svg?style=flat-square"></a>
 </p>
 
-最新
+### 最新
 
 * [最近的被攻击记录](http://localhost/articles/2019/02/18/1550460506963.html)
 * [GitHub Star 的意义](http://localhost/articles/2019/01/07/1546796187762.html)
@@ -31,7 +31,7 @@ D 的个人博客
 * [以太坊同步一直“卡着”的原因](http://localhost/articles/2018/03/11/1520767628593.html)
 * [以太坊 JavaScript API web3.js 打币](http://localhost/articles/2018/03/09/1520583695227.html)
 
-热门
+### 热门
 
 * [全文搜索之 Elasticsearch ](http://localhost/full-text-search-elasticsearch)
 * [使用 GitBook 写文档](http://localhost/write-doc-via-gitbook)
@@ -54,7 +54,7 @@ D 的个人博客
 * [你保存用户密码的姿势正确吗？](http://localhost/secure-salted-password-hashing)
 * [基于 Pushlets 的消息推送设计](http://localhost/server-push-based-on-pushlets)
 
-热议
+### 热议
 
 * [Solo 用户指南](http://localhost/articles/2017/04/23/1492881378588.html)
 * [2017 成为报废程序员的前一年](http://localhost/articles/2017/12/31/1514687638181.html)
