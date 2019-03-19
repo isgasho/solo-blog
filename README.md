@@ -1,21 +1,14 @@
-<p align="center">
-  <img alt="D 的个人博客" src="https://img.hacpai.com/avatar/1353745196354_1535379434567.png?imageView2/1/w/242/h/242/interlace/0/q/100"><br><br>  
-  </p>
-
-<h2 align="center">
+<p align="center">https://img.hacpai.com/avatar/1353745196354_1535379434567.png?imageView2/1/w/80/h/80/interlace/0/q/85</p><h2 align="center">
 D 的个人博客
 </h2>
 
 <h4 align="center">开源程序员，自由职业者</h4>
-<p align="center">
-<a title="D 的个人博客" target="_blank" href="https://github.com/88250/solo-blog"><img src="https://img.shields.io/github/last-commit/88250/solo-blog.svg?style=flat-square"></a>
+<p align="center"><img alt="D 的个人博客" width="32" src="https://img.hacpai.com/avatar/1353745196354_1535379434567.png?imageView2/1/w/242/h/242/interlace/0/q/100"><br><a title="D 的个人博客" target="_blank" href="https://github.com/88250/solo-blog"><img src="https://img.shields.io/github/last-commit/88250/solo-blog.svg?style=flat-square"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github/88250/solo-blog"><img src="https://img.shields.io/github/repo-size/88250/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.3.0-f1e05a.svg?style=flat-square"></a>
 </p>
 
-
 最新
-
 
 * [最近的被攻击记录](http://localhost/articles/2019/02/18/1550460506963.html)
 * [GitHub Star 的意义](http://localhost/articles/2019/01/07/1546796187762.html)
@@ -40,7 +33,6 @@ D 的个人博客
 
 热门
 
-
 * [全文搜索之 Elasticsearch ](http://localhost/full-text-search-elasticsearch)
 * [使用 GitBook 写文档](http://localhost/write-doc-via-gitbook)
 * [RabbitMQ 集群与高可用配置](http://localhost/rabbitmq-clustering-ha)
@@ -64,7 +56,6 @@ D 的个人博客
 
 热议
 
-
 * [Solo 用户指南](http://localhost/articles/2017/04/23/1492881378588.html)
 * [2017 成为报废程序员的前一年](http://localhost/articles/2017/12/31/1514687638181.html)
 * [Solo 的 golang 版计划](http://localhost/articles/2017/09/11/1505113028471.html)
@@ -85,7 +76,6 @@ D 的个人博客
 * [88250 的“一分钟想法” ](http://localhost/articles/2009/12/09/1260370800000.html)
 * [Fancybox 插件介绍](http://localhost/b3log-solo-041-fancybox-plugin)
 * [开源经验谈](http://localhost/articles/2017/08/01/1501603146956.html)
-
 
 
 ---
