@@ -77,7 +77,6 @@ D 的个人博客
 * [Fancybox 插件介绍](http://localhost/b3log-solo-041-fancybox-plugin)
 * [开源经验谈](http://localhost/articles/2017/08/01/1501603146956.html)
 
-
 ---
 
 本仓库通过 [Solo](https://github.com/b3log/solo) 自动进行同步更新 ❤️ 
