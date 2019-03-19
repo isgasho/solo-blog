@@ -61,18 +61,11 @@ D 的个人博客
 
 
 * [Solo 用户指南](http://localhost/articles/2017/04/23/1492881378588.html)
-* [创业的第一个春天](http://localhost/articles/2018/04/20/1524191993505.html)
-* [创业的第一个秋天](http://localhost/articles/2018/10/29/1540781279972.html)
 * [2017 成为报废程序员的前一年](http://localhost/articles/2017/12/31/1514687638181.html)
 * [Solo 的 golang 版计划](http://localhost/articles/2017/09/11/1505113028471.html)
-* [百度不限速下载器 BND2 技术架构简介](http://localhost/articles/2018/08/26/1535277215816.html)
-* [创业的第一个夏天](http://localhost/articles/2018/07/26/1532590847178.html)
 * [疯狂的想法 C：书籍共享计划](http://localhost/articles/2017/01/01/1483240295087.html)
-* [链书 M1 上线](http://localhost/articles/2018/06/21/1529545076617.html)
 * [2015 年总结 - 十年](http://localhost/articles/2016/01/30/1454085278317.html)
-* [协慌网，一个汉化 Stack Overflow 的网站](http://localhost/articles/2018/10/03/1538577113305.html)
 * [EverBox（同步网盘）邀请](http://localhost/everbox-invite.html)
-* [2018 成为报废程序员的第一年](http://localhost/articles/2018/12/31/1546225387284.html)
 * [为什么又要造一个叫 Latke 的轮子](http://localhost/why-latke-exists)
 * [2016 一个想做架构师的码农](http://localhost/articles/2016/12/30/1483027205828.html)
 * [GAE 配额优化](http://localhost/gae-quota-optimization)
